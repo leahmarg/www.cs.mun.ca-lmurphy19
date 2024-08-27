@@ -1,0 +1,1 @@
+scp index.html lmurphy19@garfield.cs.mun.ca:~/.www/index.html
